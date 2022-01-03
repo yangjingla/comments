@@ -1,2 +1,2 @@
 # comments
-utterances for hero
+utterances for hexo
